@@ -1,2 +1,2 @@
 # cybersecurityresources
-A list of potentially useful cyber security resources
+A list of  useful cyber security resources
